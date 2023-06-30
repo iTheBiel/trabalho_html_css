@@ -1,0 +1,363 @@
+body{
+    background-image: url(gaus.gif);
+    background-size: 100% 120%;
+    background-repeat: no-repeat;
+}
+header{
+    width: 800px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+    background-image: url(fundo_geral.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image_shop{
+    background-image: url('shop2.png');
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+.image_shop2{
+    background-image: url('shop2.png');
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+h2{
+    font-size: 18px;
+    text-decoration: double;
+    border-radius: 10px;
+    width: 149px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 254, 255);
+    padding: 14px 215px; 
+        }
+nav{
+    width: 800px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    border: 5px solid black;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+    background-image: url(fundo_geral.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 810px;
+    height: 400px;
+    /*border: 5px solid black;*/
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+footer{
+    width: 800px;
+    height: 100px;
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+    background-image: url(fundo_geral.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{font-size: 18px;
+    text-decoration: double;
+    border-radius: 10px;
+    width: 149px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 254, 255);
+    padding: 14px 20px; 
+}
+aside{
+    width: 800px;
+    height: 390px;
+    margin-left: 0px;
+    border: 5px solid black;
+    float: left; 
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+}
+.nin{
+    width: 580px;
+    height: 390px;
+    margin-left: 0px;
+    border: 5px solid black;
+    float: left; 
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+    background-image: url('nintendo.png');
+    background-position: 100px 50px;
+    background-size: 400px 320px;
+    background-repeat: no-repeat;
+}
+.ninn{
+    font-size: 18px;
+    text-decoration: double;
+    border-radius: 10px;
+    width: 90px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 254, 255);
+    padding: 14px 215px; 
+}
+
+.image_ps{
+    background-image: url(ps.png);
+    width: 80px;
+    height: 30px;
+}
+
+main{
+    width: 210px;
+    height: 390px;
+    border: 5px solid black;
+    float: left;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+        }
+.gimage{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: left;
+    margin-left: 10px;
+}
+.image_elo{
+    background-image: url(elo.png);
+    width: 80px;
+    height: 30px;
+}
+.image_master{
+    background-image: url(mastercard.png);
+    width: 40px;
+    height: 40px;
+    margin-top: -3px;
+}
+.image_visa{
+    background-image: url(visa.png);
+    width: 40px;
+    height: 32px;
+}
+.image_confia{
+    background-image: url(Confia.png);
+    width: 270px;
+    height: 80px;
+}
+.image_blindado{
+    background-image: url(blindado.png);
+    width: 280px;
+    height: 60px;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+.ggimage{
+    width: 200px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+}
+.text{
+    width: 200px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+.p{
+    font-size: 18px;
+    text-decoration: double;
+    border-radius: 10px;
+    width: 149px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 254, 255);
+    padding: 14px 20px; 
+}
+.fox{
+    font-size: 18px;
+    text-decoration: double;
+    border-radius: 10px;
+    width: 149px;
+    color: rgb(5, 145, 5);
+    background-color: rgb(250, 254, 255);
+    padding: 10px 16px; 
+    background-image: url('caminhao.png');
+    background-repeat:no-repeat;
+    background-size: 35px;
+}
+.compre a{
+    font-size: 18px;
+    text-decoration: double;
+    border-radius: 10px;
+    width: 100px;
+    color: rgb(7, 7, 7);
+    background-color: rgb(8, 168, 231);
+    padding: 14px 43px; 
+}
+.compre a:hover{
+    color: rgb(5, 5, 5);
+    background-color: rgb(19, 209, 19);
+}
+.la {
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    float: left;
+    width: 50px;
+    color: black;
+    padding:0px 20px; 
+    border-radius: 10px;
+}
+
+.la:hover {
+    color: white;
+    background-color: midnightblue;
+}
+.centro{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.left{
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.cima{
+    width: 450px;
+    height: 40px;
+}
+.carrinho{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.l{
+    border-radius: 10px;
+    width: 149px;
+    background-color: rgb(250, 254, 255);
+    padding: 14px 20px;
+    background-image: url('nintendo.png');
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+
+}
+.fox{
+    font-size: 18px;
+text-decoration: double;
+border-radius: 10px;
+width: 149px;
+color: rgb(5, 145, 5);
+background-color: rgb(250, 254, 255);
+padding: 10px 16px; 
+background-image: url('caminhao.png');
+background-repeat:no-repeat;
+background-size: 35px;
+}
+.vazio{
+width: 580px;
+height: 390px;
+margin-left: 0px;
+float: left; 
+margin-bottom: 20px;
+border-radius: 10px;
+background-color: white;
+box-shadow: 5px 5px 5px gray;
+background-image: url('carrinho2.png');
+background-position: 100px 100px;
+background-size: 320px 220px;
+background-repeat: no-repeat;  
+}
+.nome{
+font-size: 20px;
+text-decoration: double;
+border-radius: 10px;
+width: 149px;
+color: rgb(0, 0, 0);
+background-color: rgb(250, 254, 255);
+padding: 14px 215px; 
+}
+.freddy{
+
+    width: 50px;
+    height: 50px;
+    margin-bottom: 3px;
+    background-color: rgb(250, 254, 255);
+    padding: 23px 28px;
+    background-image: url('nintendo.png');
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    float:left;
+}
+.m{
+    background-image: url('ps.png');
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+
+.golden{
+    width: 580px;
+    height: 390px;
+    margin-left: 0px;
+    float: left; 
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 5px gray;
+    background-image: url('ps.png');
+    background-position: 100px 50px;
+    background-size: 400px 320px;
+    background-repeat: no-repeat;
+}
+.produtos{
+    width: 85px;
+    height: 169px;
+}
+.mano{
+    width: 800px;
+    height: 300px;
+}
+.mano1{
+    min-width: 340px;
+    min-height: 240px;
+    background-image: url(nintendo.png);
+    float: left;
+    background-size: 100% 100%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.mano2{
+    width: 380px;
+    height: 200px;
+    background-image: url(ps.png);
+    background-size: 100% 100%;
+    margin-left: 15px;
+    margin-right: 15px;
+    float: right;
+}
+.borda{
+    border: 5px solid black;
+}
