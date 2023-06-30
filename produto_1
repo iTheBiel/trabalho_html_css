@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Layout em CSS</title>
+</head>
+<body>
+    <header>
+        <div class="image_shop gimage"></div>
+        <div class="ggimage" style="margin-left: 200px;"><h1>Loja 100 Real</h1></div>
+        <div class="image_shop2 gimage" style="float: right"></div>
+    </header>
+    <nav>
+        <div class="centro cima">
+            <a href="index.html" class="la fullcentro left">Home</a> 
+            <a href="index.html" class="la fullcentro left">Pesquisa</a> 
+            <a href="carrinho.html" class="la fullcentro left">Carrinho</a>  
+            <a href="produto2.html" class="la fullcentro left" style="margin-top: 1px;">Produto 2</a>  
+        </div>
+    </nav>
+    <div class="container">
+        <main>
+            <h3 align="center" class="centro">Kit Nintendo</h3>
+            <p class="p centro">1 Teclado Mecanico (Bluetooth) e 1 mouse (Bluetooth)</p>
+            <p class="fox p centro">‎ ‎ ‎ ‎ ‎ ‎ Frete Grátis</p>
+            <br>
+            <div class="compre centro">
+                <a href="comprado.html" class="centro">Compre Aqui</a>
+                <br><br><br>
+                <a href="carrinho.html" class="centro">Carrinho Aqui</a>
+            </div>
+        </main>
+        <aside class="nin">
+            <h2 align="center" class="ninn">Kit Nintendo</h2>
+            <div class="ninte"></div>
+        </aside>
+    </div>
+    <footer>
+        <div class="image_confia gimage" style="margin-top: 5px; margin-left: 2px;"></div>
+        <div class="ggimage">
+            <p class="text">Formas de Pagamento</p>
+            <div class="text" style="margin-top: -10px;">_________________________</div>
+            <div class="gimage image_elo"></div>
+            <div class="gimage image_visa"></div>
+            <div class="gimage image_master"></div>
+        </div>
+        <div class="image_blindado gimage"></div>
+    </footer>
+</body>
+</html>
